@@ -1,107 +1,118 @@
-<h1 align="center">⚡ Adhi ⚡</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF004D&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Desktop+Application+Engineer;Android+App+Developer;Gen+AI+Builder;System+Architecture+Enthusiast;adhi-debug" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=ADHI-DEBUG&fontSize=60&fontColor=00F5FF&animation=fadeIn&desc=V.%20Chandanadhithyan%20%7C%20Full%20Stack%20%26%20AI%20Systems%20Architect&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-FF004D?style=for-the-badge" />
-  </a>
-  <a href="mailto:adhithyan0209@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-000000?style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/adhinowhere/">
-    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/v-chandanadhithyan-4aa3b9375">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-I am a multi-domain developer building powerful real-world systems across:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Architectures;AI+%2B+Automation+Engineer;Desktop+%7C+Web+%7C+Android+Developer;Clean+Code+%7C+Strong+Systems+%7C+Real+Impact" />
 
-- 💻 Desktop Applications  
-- 🌐 Full Stack Web Development  
-- 📱 Android Application Development  
-- 🤖 Generative AI Systems  
-- 🗄 Database Driven Platforms  
-
-I focus on clean architecture, performance optimization, and scalable system design.
+</div>
 
 ---
 
-## 🚀 Completed Projects
+## 🧠 SYSTEM PROFILE
 
-- 🖥 Windows File Management System (C + GTK + MSYS64)
-- 🤖 Desktop AI Assistant (Wake word detection + LLM + automation)
-- 🌐 90s Arcade Gaming Web Platform (Modern UI)
-- 📱 Android Utility Applications
-- 🗄 Database Driven Systems (PHP + MySQL)
-- 🎵 Media Streaming Web App
-- 📊 Structured DBMS Systems
-- 🔐 System-level Tools & Utilities
+```ts
+> BOOT SEQUENCE INITIATED...
+> USER: ADHI-DEBUG
+> ACCESS LEVEL: SYSTEM ARCHITECT
 
-Multiple production-ready and experimental builds under development.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,python,php,java,kotlin,c,cpp,git,mysql" />
-</p>
-
-### 💾 Databases & Backend
-- DBMS  
-- MySQL  
-- SQL  
-- phpMyAdmin  
-- REST APIs  
-- Authentication Systems  
+const Engineer = {
+    Domains: [
+        "Web Applications",
+        "Desktop Systems",
+        "Android Applications",
+        "AI + Automation",
+        "Database Engineering"
+    ],
+    CoreStack: [
+        "React", "Node.js", "Python", "Java", 
+        "Kotlin", "C/C++", "PHP", "SQL"
+    ],
+    Philosophy: "Design First. Build Clean. Ship Fast.",
+    Mission: "Engineering intelligent systems for real-world scale.",
+    Status: "Actively Shipping 🚀"
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ TECHNOLOGY ARSENAL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhi-debug&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhi-debug&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,react,html,css,python,java,kotlin,cpp,c,php,mysql,git,linux&theme=dark" />
+</div>
 
 ---
 
-## 📈 Most Used Languages
+## 🚀 ENGINEERING HIGHLIGHTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhi-debug&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🔥 Current Focus
-
-- Advanced System Architecture  
-- AI + Automation Systems  
-- Performance Driven Backend  
-- Production Ready Applications  
-- Scalable Full Stack Systems  
+- ✅ AI Desktop Assistant with Wake-Word + Local LLM + Automation  
+- ✅ Smart File Management System (C + GTK + Database Logging)  
+- ✅ Full Stack Production Web Applications (React + Node + SQL)  
+- ✅ Android Applications (Kotlin Native)  
+- ✅ REST APIs & Database Systems (DBMS, SQL, phpMyAdmin)  
+- ✅ Cloud Deployments & CI/CD Workflows  
 
 ---
 
-## 💎 Developer Philosophy
+## 📊 PERFORMANCE METRICS
 
-> Build clean. Build scalable. Build future-ready systems.
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhi-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adhi-debug&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adhi-debug&color=ff004d&style=flat-square" />
-</p>
+## 📈 LANGUAGE DISTRIBUTION
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhi-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/v-chandanadhithyan-4aa3b9375">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
+</a>
+
+<a href="mailto:adhithyan0209@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF" />
+</a>
+
+<a href="https://www.instagram.com/adhinowhere/">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F5FF" />
+</a>
+
+</div>
+
+---
+
+## 🧩 CURRENT FOCUS
+
+- 🔬 Expanding into AI-powered desktop systems  
+- ⚙️ Building scalable backend infrastructures  
+- 🧠 Designing intelligent automation workflows  
+- 🚀 Launching production-ready software  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+
+</div>
