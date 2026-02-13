@@ -43,6 +43,7 @@ const Mission = {
     Current_Focus: ["AI Integration", "High-Performance Cloud Systems"],
     Status: "SHIPPING_TO_PRODUCTION"
 };
+```
 <div align="center">
 <h2>⚡ T E C H N O L O G Y &nbsp; A R S E N A L ⚡</h2>
 </div>
