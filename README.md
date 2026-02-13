@@ -1,17 +1,52 @@
 <h1 align="center">⚡ Adhi ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF004D&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Desktop+%7C+Android+%7C+Web+Developer;Gen+AI+Builder;System+Design+Enthusiast;adhi-debug" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF004D&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Desktop+Application+Engineer;Android+App+Developer;Gen+AI+Builder;System+Architecture+Enthusiast;adhi-debug" />
+</p>
+
+<p align="center">
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-FF004D?style=for-the-badge" />
+  </a>
+  <a href="mailto:adhithyan0209@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-000000?style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/adhinowhere/">
+    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/v-chandanadhithyan-4aa3b9375">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💻 Application Developer (Desktop + Web + Android)  
-🚀 I build scalable, real-world applications  
-🤖 Exploring Generative AI & Intelligent Systems  
-⚡ Passionate about performance & clean architecture  
+I am a multi-domain developer building powerful real-world systems across:
+
+- 💻 Desktop Applications  
+- 🌐 Full Stack Web Development  
+- 📱 Android Application Development  
+- 🤖 Generative AI Systems  
+- 🗄 Database Driven Platforms  
+
+I focus on clean architecture, performance optimization, and scalable system design.
+
+---
+
+## 🚀 Completed Projects
+
+- 🖥 Windows File Management System (C + GTK + MSYS64)
+- 🤖 Desktop AI Assistant (Wake word detection + LLM + automation)
+- 🌐 90s Arcade Gaming Web Platform (Modern UI)
+- 📱 Android Utility Applications
+- 🗄 Database Driven Systems (PHP + MySQL)
+- 🎵 Media Streaming Web App
+- 📊 Structured DBMS Systems
+- 🔐 System-level Tools & Utilities
+
+Multiple production-ready and experimental builds under development.
 
 ---
 
@@ -21,15 +56,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,python,php,java,kotlin,c,cpp,git,mysql" />
 </p>
 
----
-
-## 🗄 Database & Backend Knowledge
-
-- 🛢 DBMS  
-- 🐬 MySQL  
-- 🗃 SQL  
-- 🖥 phpMyAdmin  
-- ⚙ REST APIs  
+### 💾 Databases & Backend
+- DBMS  
+- MySQL  
+- SQL  
+- phpMyAdmin  
+- REST APIs  
+- Authentication Systems  
 
 ---
 
@@ -45,7 +78,7 @@
 
 ---
 
-## 🔥 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhi-debug&layout=compact&theme=radical&hide_border=true" />
@@ -53,18 +86,19 @@
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Current Focus
 
-- Advanced System Design  
-- AI-powered Desktop Assistants  
-- Full Stack Development  
-- Performance Optimization  
+- Advanced System Architecture  
+- AI + Automation Systems  
+- Performance Driven Backend  
+- Production Ready Applications  
+- Scalable Full Stack Systems  
 
 ---
 
-## 💎 Philosophy
+## 💎 Developer Philosophy
 
-> "Build powerful systems. Write clean code. Think long term."
+> Build clean. Build scalable. Build future-ready systems.
 
 ---
 
