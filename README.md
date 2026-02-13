@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=280&section=header&text=ADHI%20DEBUG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20System%20Architect&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:7F00FF,100:FF00C8&height=300&section=header&text=ADHI-DEBUG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C%20System%20Builder&descAlignY=58&descAlign=50"/>
 
 </div>
 
@@ -8,94 +8,70 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+GenAI+Engineer;Desktop+Application+Builder;Android+Developer;Database+Architect;I+Build+Things+That+Scale" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;AI+%26+GenAI+Developer;Desktop+%2B+Android+Engineer;Database+Architect;Cyber+Code+Creator" />
 
 </div>
 
 ---
 
-# ⚡ ABOUT ME
+# 🤖 SYSTEM INITIALIZATION
 
 ```ts
-const Adhi = {
-    Role: "Full Stack + AI Engineer",
-    Focus: [
-        "Scalable Web Systems",
-        "AI Integration",
-        "Desktop Applications",
-        "Android Development",
-        "Database Architecture"
+> BOOT SEQUENCE INITIATED...
+> USER: ADHI-DEBUG
+> ACCESS LEVEL: ROOT / ARCHITECT
+
+const Developer = {
+    Domains: [
+        "Web Applications",
+        "Desktop Software",
+        "Android Applications",
+        "AI Systems",
+        "Automation Tools"
     ],
-    Philosophy: "Build. Optimize. Scale. Repeat.",
-    Status: "Shipping Production-Ready Systems 🚀"
+    Stack: ["React", "Node", "Python", "Java", "C/C++"],
+    Architecture: "Scalable, Production-Ready",
+    Status: "Deploying Innovation 🚀"
 };
 ```
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 CONNECT
 
 <div align="center">
 
 <a href="mailto:adhithyan0209@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/v-chandanadhithyan-4aa3b9375">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/adhinowhere/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://adhi-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FF00C8?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🛠 TECH STACK
-
-### 🧠 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,php,js" />
-</p>
-
-### 🖥 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### ⚙ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### 🗄 Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,linux,vscode" />
-</p>
-
----
-
-# 📊 LANGUAGE DISTRIBUTION (PIE CHART)
+# ⚡ TECH MATRIX
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhi-debug&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="300"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,html,css,python,php,java,kotlin,c,cpp,mysql,git,linux&theme=dark" />
+
+</div>
+
+---
+
+# 📊 LANGUAGE DISTRIBUTION (WORKING PIE CHART)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhi-debug&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="280"/>
 
 </div>
 
@@ -105,9 +81,9 @@ const Adhi = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adhi-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adhi-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00C8&text_color=FFFFFF" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adhi-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adhi-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF" height="180"/>
 
 </div>
 
@@ -117,13 +93,13 @@ const Adhi = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhi-debug&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhi-debug&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&line=00F5FF&point=FF00C8"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE (ANIMATED)
+# 🐍 CONTRIBUTION SNAKE (AUTO ANIMATED)
 
 <div align="center">
 
@@ -133,14 +109,14 @@ const Adhi = {
 
 ---
 
-# 🚀 PROJECT HIGHLIGHTS
+# 🚀 FEATURED PROJECTS
 
-- 🧠 AI Desktop Assistant
-- 📂 Automated File Management System (C + GTK)
-- 🎮 90s Arcade Web Platform
-- 📱 Android Applications
-- 🌐 Full Stack Web Apps with React + Node
-- 🗄 DBMS Projects with SQL & phpMyAdmin
+✨ AI Desktop Assistant  
+✨ Automated File Management System (C + GTK + DB Logging)  
+✨ 90s Arcade Web Platform  
+✨ Android Applications (Kotlin Native)  
+✨ Full Stack Web Systems  
+✨ DBMS + SQL + phpMyAdmin Systems  
 
 ---
 
@@ -149,13 +125,13 @@ const Adhi = {
 - Gen AI Integration
 - Intelligent Automation
 - High Performance Web Systems
-- Cloud Deployment
-- Scalable Backend Architecture
+- Cloud Architecture
+- Production Grade Backend Systems
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,100:00F5FF&height=120&section=footer"/>
 
 </div>
